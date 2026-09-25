@@ -1,5 +1,9 @@
 # Jev Ultrafast
 
+This fork follows the shared Project Playbook at
+`../project-playbook/PLAYBOOK.md`. Read `PROJECT.md` before non-trivial
+changes so fork-specific experiment goals and constraints are not lost.
+
 Read README.md before editing. Keep the loop small: page -> indexed elements -> operation + target -> execution.
 
 - The input is one natural-language goal. Do not add site-specific plans or hardcoded field values.

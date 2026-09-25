@@ -16,6 +16,11 @@ Give it one goal. [TypeSafe's Jev](https://docs.typesafe.ai/introduction) picks 
 
 [Watch the MP4](docs/demo.mp4) · [Measurements](docs/performance.md) · [Read the loop](jev_ultrafast/agent.py)
 
+> **Fork development:** local experiment status and handoff context live in
+> [PROJECT.md](PROJECT.md); meaningful fork/upstream milestones are summarized
+> in [CHANGELOG.md](CHANGELOG.md). Upstream product and usage documentation
+> remains in this README.
+
 ## The action space
 
 Every observation produces a new element table:
